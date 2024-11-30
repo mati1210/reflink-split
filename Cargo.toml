@@ -1,7 +1,9 @@
 [package]
 name = "reflink-split"
+description = "like split(1), but for filesystems with reflink support"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/mati1210/reflink-split"
 license = "MPL-2.0"
 
 [dependencies]
